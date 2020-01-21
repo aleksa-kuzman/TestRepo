@@ -7,8 +7,8 @@ namespace TestApp
         private static void Main(string[] args)
         {
             Console.WriteLine("Zdravo ja sam Pera");
-            Console.WriteLine("Ne znam sta radim");
-            Console.WriteLine("IDalje ne znam sta radim");
+
+            Console.WriteLine("Ja znam sta radim, ali ...");
         }
     }
 }
